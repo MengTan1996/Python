@@ -11,7 +11,7 @@
 
 ####例子
 <pre><code>
-x = raw_input()input("please input a number:")
+x = raw_input("please input a number:")
 #x = input("please input a number:")
 y = raw_input("please input a number:")
 #y = input("please input a number:")
